@@ -121,10 +121,10 @@
     "useTabs": false,
     "quoteProps": "consistent"
   },
-  "homepage": "https://github.com/BuilderIO/partytown#readme",
+  "homepage": "https://github.com/QwikDev/partytown#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BuilderIO/partytown.git"
+    "url": "git+https://github.com/QwikDev/partytown.git"
   },
   "keywords": [
     "web worker",
